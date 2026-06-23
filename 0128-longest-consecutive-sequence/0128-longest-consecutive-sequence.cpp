@@ -4,19 +4,21 @@ public:
         int n=nums.size();
         if (n == 0)
             return 0;
-        sort(nums.begin(), nums.end());
-        int lastSmaller = INT_MIN;
-        int currentStreak = 0;
         int longestStreak = 1;
-        for (int i = 0; i < n; i++) {
-            if (nums[i] - 1 == lastSmaller) {
-                currentStreak++;
-                lastSmaller = nums[i];
-            } else if (lastSmaller != nums[i]) {
-                currentStreak = 1;
-                lastSmaller = nums[i];
+        unordered_set<int> st;
+        for (int num : nums) {
+            st.insert(num);
+        }
+        for (auto num : st) {
+            if (st.find(num - 1) == st.end()) {
+                int currentStreak = 1;
+                int x = num;
+                while (st.find(x + 1) != st.end()) {
+                    x++;
+                    currentStreak++;
+                }
+                longestStreak = max(longestStreak, currentStreak);
             }
-            longestStreak = max(longestStreak, currentStreak);
         }
         return longestStreak;
     }
