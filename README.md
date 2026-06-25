@@ -6,10 +6,12 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/adarsh-67r/git-leethub/tree/master/0128-longest-consecutive-sequence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adarsh-67r/git-leethub/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/adarsh-67r/git-leethub/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/adarsh-67r/git-leethub/tree/master/0128-longest-consecutive-sequence) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/adarsh-67r/git-leethub/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -62,4 +64,21 @@
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adarsh-67r/git-leethub/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/adarsh-67r/git-leethub/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/adarsh-67r/git-leethub/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/adarsh-67r/git-leethub/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/adarsh-67r/git-leethub/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/adarsh-67r/git-leethub/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
