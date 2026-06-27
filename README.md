@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adarsh-67r/git-leethub/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/adarsh-67r/git-leethub/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/adarsh-67r/git-leethub/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/adarsh-67r/git-leethub/tree/master/0344-reverse-string) |
 ## Dynamic Programming
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adarsh-67r/git-leethub/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adarsh-67r/git-leethub/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
