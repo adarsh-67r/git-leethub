@@ -22,6 +22,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/adarsh-67r/git-leethub/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/adarsh-67r/git-leethub/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/adarsh-67r/git-leethub/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/adarsh-67r/git-leethub/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -52,6 +53,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/adarsh-67r/git-leethub/tree/master/0069-sqrtx) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adarsh-67r/git-leethub/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
