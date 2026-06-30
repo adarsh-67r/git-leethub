@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/adarsh-67r/git-leethub/tree/master/0128-longest-consecutive-sequence) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/adarsh-67r/git-leethub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adarsh-67r/git-leethub/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
 |  |
@@ -38,6 +39,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adarsh-67r/git-leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/adarsh-67r/git-leethub/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/adarsh-67r/git-leethub/tree/master/0344-reverse-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/adarsh-67r/git-leethub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/adarsh-67r/git-leethub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adarsh-67r/git-leethub/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
