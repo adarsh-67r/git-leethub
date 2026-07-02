@@ -5,12 +5,14 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adarsh-67r/git-leethub/tree/master/0014-longest-common-prefix) |
+| [0073-set-matrix-zeroes](https://github.com/adarsh-67r/git-leethub/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/adarsh-67r/git-leethub/tree/master/0128-longest-consecutive-sequence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adarsh-67r/git-leethub/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adarsh-67r/git-leethub/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/adarsh-67r/git-leethub/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/adarsh-67r/git-leethub/tree/master/0128-longest-consecutive-sequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adarsh-67r/git-leethub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adarsh-67r/git-leethub/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -103,4 +105,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adarsh-67r/git-leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/adarsh-67r/git-leethub/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
