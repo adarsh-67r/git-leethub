@@ -9,6 +9,7 @@
 | [0073-set-matrix-zeroes](https://github.com/adarsh-67r/git-leethub/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/adarsh-67r/git-leethub/tree/master/0128-longest-consecutive-sequence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adarsh-67r/git-leethub/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/adarsh-67r/git-leethub/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adarsh-67r/git-leethub/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -112,4 +113,5 @@
 | ------- |
 | [0048-rotate-image](https://github.com/adarsh-67r/git-leethub/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/adarsh-67r/git-leethub/tree/master/0073-set-matrix-zeroes) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/adarsh-67r/git-leethub/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
