@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/adarsh-67r/git-leethub/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/adarsh-67r/git-leethub/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/adarsh-67r/git-leethub/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/adarsh-67r/git-leethub/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/adarsh-67r/git-leethub/tree/master/0128-longest-consecutive-sequence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adarsh-67r/git-leethub/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/adarsh-67r/git-leethub/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -48,6 +49,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/adarsh-67r/git-leethub/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/adarsh-67r/git-leethub/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
