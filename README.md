@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adarsh-67r/git-leethub/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/adarsh-67r/git-leethub/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/adarsh-67r/git-leethub/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/adarsh-67r/git-leethub/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/adarsh-67r/git-leethub/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/adarsh-67r/git-leethub/tree/master/0128-longest-consecutive-sequence) |
@@ -114,6 +115,11 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/adarsh-67r/git-leethub/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/adarsh-67r/git-leethub/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/adarsh-67r/git-leethub/tree/master/0073-set-matrix-zeroes) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/adarsh-67r/git-leethub/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/adarsh-67r/git-leethub/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
