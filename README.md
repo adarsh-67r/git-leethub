@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adarsh-67r/git-leethub/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/adarsh-67r/git-leethub/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/adarsh-67r/git-leethub/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adarsh-67r/git-leethub/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/adarsh-67r/git-leethub/tree/master/0073-set-matrix-zeroes) |
@@ -41,6 +42,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/adarsh-67r/git-leethub/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adarsh-67r/git-leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/adarsh-67r/git-leethub/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/adarsh-67r/git-leethub/tree/master/0344-reverse-string) |
@@ -83,6 +85,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/adarsh-67r/git-leethub/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/adarsh-67r/git-leethub/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adarsh-67r/git-leethub/tree/master/0229-majority-element-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adarsh-67r/git-leethub/tree/master/1838-frequency-of-the-most-frequent-element) |
