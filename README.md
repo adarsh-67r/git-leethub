@@ -10,6 +10,7 @@
 | [0073-set-matrix-zeroes](https://github.com/adarsh-67r/git-leethub/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/adarsh-67r/git-leethub/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/adarsh-67r/git-leethub/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/adarsh-67r/git-leethub/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/adarsh-67r/git-leethub/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adarsh-67r/git-leethub/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/adarsh-67r/git-leethub/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -19,6 +20,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/adarsh-67r/git-leethub/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/adarsh-67r/git-leethub/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/adarsh-67r/git-leethub/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/adarsh-67r/git-leethub/tree/master/0560-subarray-sum-equals-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adarsh-67r/git-leethub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adarsh-67r/git-leethub/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -79,6 +81,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/adarsh-67r/git-leethub/tree/master/0169-majority-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adarsh-67r/git-leethub/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -89,6 +92,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/adarsh-67r/git-leethub/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adarsh-67r/git-leethub/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -101,6 +105,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/adarsh-67r/git-leethub/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adarsh-67r/git-leethub/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Trie
 |  |
