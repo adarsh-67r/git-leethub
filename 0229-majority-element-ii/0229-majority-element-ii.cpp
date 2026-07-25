@@ -13,7 +13,6 @@ public:
                     break;
             }
         }
-        sort(ls.begin(), ls.end());
         return ls;
     }
 };
